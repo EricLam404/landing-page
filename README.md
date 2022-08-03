@@ -5,3 +5,6 @@ Demonstrated skills:
 HTML
 CSS
   Flexbox
+  
+Live Link
+https://ericlam404.github.io/landing-page/
